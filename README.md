@@ -4,18 +4,18 @@
 
 ## Getting Started
 
-Clone the GitHub repository__
+Clone the GitHub repository<br>
 $git clone https://github.com/britcoop/entertainment-center
 
 ### Prerequisites
 
-Install Python 2.7 : https://www.python.org/downloads/ __
+Install Python 2.7 : https://www.python.org/downloads/ <br>
 Test that python is installed on your system by typing "python" in your terminal; if successfully installed, the version of python should show
 
 ### Installing
 
-Locate the file in your terminal__
-python ./entertainment-center.py__
+Locate the file in your terminal<br>
+python ./entertainment-center.py
 
 You can access the movie title, storyline, poster image, and youtube trailer. 
 
@@ -40,10 +40,6 @@ Add additional notes about how to deploy this on a live system
 * **Brittany Cooper** - https://github.com/britcoop
 
 Udacity Nanodegree Course Project
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
