@@ -4,18 +4,18 @@
 
 ## Getting Started
 
-Clone the GitHub repository
+Clone the GitHub repository__
 $git clone https://github.com/britcoop/entertainment-center
 
 ### Prerequisites
 
-Install Python 2.7 : https://www.python.org/downloads/
+Install Python 2.7 : https://www.python.org/downloads/ __
 Test that python is installed on your system by typing "python" in your terminal; if successfully installed, the version of python should show
 
 ### Installing
 
-Locate the file in your terminal
-python ./entertainment-center.py
+Locate the file in your terminal__
+python ./entertainment-center.py__
 
 You can access the movie title, storyline, poster image, and youtube trailer. 
 
