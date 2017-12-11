@@ -1,6 +1,6 @@
 # Entertainment Center
 
-**Entertainment Center** stores useful information about your fav movies and shows including title, image, trailer, and rating.
+**Entertainment Center** stores useful information about your fav movies including title, storyline, poster image and youtube trailer.
 
 ## Getting Started
 
@@ -9,15 +9,19 @@ $git clone https://github.com/britcoop/entertainment-center
 
 ### Prerequisites
 
-Install Python 2.7 : https://www.python.org/downloads/ <br>
-Test that python is installed on your system by typing "python" in your terminal; if successfully installed, the version of python should show
+Requires Python 2.7
 
 ### Installing
 
-Locate the file in your terminal<br>
+Install Python 2.7 : https://www.python.org/downloads/ <br>
+Test that python is installed on your system by typing "python" in your terminal; if successfully installed, the version of python should show
+
+## Deployment
+
+Navigate to the project folder in your terminal<br>
 python ./entertainment-center.py
 
-You can access the movie title, storyline, poster image, and youtube trailer. 
+You can also access the movie title, storyline, poster image, and youtube trailer. 
 
 ```
 For example:
@@ -25,10 +29,6 @@ For example:
 print(mad_max.storyline)
 mad_max.show_trailer()
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
