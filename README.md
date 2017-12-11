@@ -19,7 +19,7 @@ Test that python is installed on your system by typing "python" in your terminal
 ## Deployment
 
 Navigate to the project folder in your terminal<br>
-python ./entertainment-center.py
+Type 'python ./entertainment-center.py'
 
 You can also access the movie title, storyline, poster image, and youtube trailer. 
 
@@ -37,9 +37,8 @@ mad_max.show_trailer()
 
 ## Authors
 
+* **Udacity** - https://www.udacity.com/
 * **Brittany Cooper** - https://github.com/britcoop
-
-Udacity Nanodegree Course Project
 
 ## Acknowledgments
 
